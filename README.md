@@ -1,5 +1,7 @@
 
-in project Contact App created using React Library.This Contact App like telephone directory. 
+              Contact App 
+              
+In project Contact App created using React Library.This Contact App like telephone directory. 
 User add, update delete contacts to application and listing the contacts.
 Furthermore, there is filtering processes by contact name an number.
 
